@@ -1,0 +1,43 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flux outputs
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# Large ML artifacts
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.npy
+*.npz
+*.ckpt
+
+# Model checkpoints or weights
+checkpoints/
+models/
+
+# Logs & cache
+logs/
+wandb/
+runs/
+.cache/
+*.log
+
+# Jupyter temp
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# VSCode config (optional)
+.vscode/
