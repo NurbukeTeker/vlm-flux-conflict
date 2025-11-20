@@ -1,0 +1,10 @@
+A STOP sign displayed in green instead of red.
+A STOP sign shown in purple instead of the normal red.
+A speed limit sign showing “120” but the border is blue instead of red.
+A traffic light displaying a RED light but labeled “GO”.
+A pedestrian crossing sign colored pink instead of standard blue.
+A wrong-way arrow pointing right while the text says “LEFT”.
+A highway exit sign in orange instead of green.
+A caution triangle colored teal instead of yellow.
+A do-not-enter sign displayed in bright neon colors.
+A yield sign completely inverted upside-down.

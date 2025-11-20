@@ -1,0 +1,10 @@
+A battery icon showing 100% while the text underneath says “Low battery”.
+A red warning triangle displayed in green.
+A Wi-Fi symbol crossed out but labeled “Connected”.
+A power button glowing green but labeled “OFF”.
+A critical alert icon shown with a smiling emoji.
+A volume muted icon but labeled “Sound on”.
+A loading spinner icon but labeled “Completed”.
+A danger skull icon but colored light blue.
+A memory full pop-up but the bar is shown empty.
+A cloud upload icon labeled “Download now”.
